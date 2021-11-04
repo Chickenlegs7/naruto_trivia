@@ -1,0 +1,13 @@
+A 10 question Naruto trivia game:
+Easy mode will have easy questions:
+
+1.What is Narutos favorite food? 
+2.What is Shikamarus last name? 
+3.What is narutos Signature Jutsu?
+4.Who is the current leader of team seven? (in anime)
+5.Who are the legendary sannin?
+6.What are the three ninja ranks?
+7.What is the name of a leader of a village?
+8.What was the name of the third Hokage? 
+9.What is the name of Orichimaru's son?
+10.What is the name of the hidden leaf village?
